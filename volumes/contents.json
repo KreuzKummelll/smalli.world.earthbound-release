@@ -1,7 +1,18 @@
-{
-  "Book One": "Birth",
-  "Book Two": "Awakening",
-  "Book Three": "Darkening",
-  "Book Four": "Death",
-  "Book Five": "Earthbound Release"
-}
+[
+	{
+		"title": "Birth"
+	},
+	{ 
+		"title":  "Awakening"
+	},
+	{
+		"title": "Darkening"
+	},
+	{ 
+		"title": "Death"
+	},
+	{ 
+		"title": "Earthbound Release"
+	}
+
+]
