@@ -1,19 +1,692 @@
 [
 	{
-		"title": "Dedication",
-		"id": 0 
-	},	
-	{
-		"title" : "Cover Letter",
-		"id": 1
-	},	
-	{
-		"title": "i am citizen rooted",
-		"id": 2
+		"title":"i am citizen rooted",
+		"volume":"birth",
+		"id": "0v000"
 	},
 	{
-		"title": 	
+		"title":"the universe room",
+		"volume":"birth",
+		"id": "0v001"
+	}    
+	{
+		"title":"after the test",
+		"volume":"birth",
+		"id": "0v002"
 	},
-	
-	
+	{
+		"title":"a compliment to ideas",
+		"volume":"birth",
+		"id": "0v003"
+	},
+	{
+		"title":"an ideea",
+		"volume":"birth",
+		"id": "0v004"
+	},
+	{
+		"title":"# 16",
+		"volume":"birth",
+		"id": "0v005"
+	},
+	{
+		"title":"gift",
+		"volume":"birth",
+		"id": "0v006"
+	},
+	{
+		"title":"from the forests",
+		"volume":"birth",
+		"id": "0v007"
+	},
+	{
+		"title":"pity fleew",
+		"volume":"birth",
+		"id": "0v008"
+	},
+	{
+		"title":"surface tension",
+		"volume":"birth",
+		"id": "0v009"
+	},
+	{
+		"title":"the artists' plough",
+		"volume":"birth",
+		"id": "0v009"
+	},
+	{
+		"title":"the pity flu",
+		"volume":"birth",
+		"id": "0v010"
+	},
+	{
+		"title":"thoughts by drunken vice",
+		"volume":"birth",
+		"id": "0v011"
+	},
+	{
+		"title":"write with pleasure",
+		"volume":"birth",
+		"id": "0v012"
+	},
+	{
+		"title":"sarah speaks",
+		"volume":"birth",
+		"id": "0v013"
+	},
+	{
+		"title":"she is coming",
+		"volume":"birth",
+		"id": "0v014"
+	},
+	{
+		"title":"we us ours",
+		"volume":"birth",
+		"id": "0v015"
+	},
+	{
+		"title":"szkło",
+		"volume":"birth",
+		"id": "0v016"
+	},
+	{
+		"title":"the moth",
+		"volume":"birth",
+		"id": "0v017"
+	},
+	{
+		"title":"black hole",
+		"volume":"birth",
+		"id": "0v018"
+	},
+	{
+		"title":"i am asked if i believe in god",
+		"volume":"birth",
+		"id": "0v019"
+	},
+	{
+		"title":"on top",
+		"volume":"birth",
+		"id": "0v020"
+	},
+	{
+		"title":"the world within the good thoughts of a curious fox",
+		"volume":"birth",
+		"id": "0v021"
+	},
+	{
+		"title":"spark plug",
+		"volume":"birth",
+		"id": "0v022"
+	},
+	{
+		"title":"the magnetic churning core of my gut",
+		"volume":"birth",
+		"id": "0v023"
+	},
+	{
+		"title":"the spur of my gut",
+		"volume":"birth",
+		"id": "0v024"
+	},
+	{
+		"title":"to begin the leaves fall again",
+		"volume":"birth",
+		"id": "0v025"
+	},
+	{
+		"title":"yin yang",
+		"volume":"birth",
+		"id": "0v026"
+	},
+	{
+		"title":"unidentify satisfaction",
+		"volume":"birth",
+		"id": "0v027"
+	},
+	{
+		"title":"slow as cold molasses",
+		"volume":"birth",
+		"id": "0v028"
+	},
+	{
+		"title":"at the brink of morning tides",
+		"volume":"birth",
+		"id": "0v029"
+	},
+	{
+		"title":"no country for young shamanen",
+		"volume":"birth",
+		"id": "0v030"
+	},
+	{
+		"title":"overcome trauma",
+		"volume":"birth",
+		"id": "0v031"
+	},
+	{
+		"title":"shadows of leeaves",
+		"volume":"birth",
+		"id": "0v032"
+	},
+	{
+		"title":"the mirror",
+		"volume":"birth",
+		"id": "0v033"
+	},
+	{
+		"title":"depart from me to return",
+		"volume":"birth",
+		"id": "0v034"
+	},
+	{
+		"title":"the nose",
+		"volume":"birth",
+		"id": "0v035"
+	},
+	{
+		"title":"imagining the 4th dimension",
+		"volume":"birth",
+		"id": "0v036"
+	},
+	{
+		"title":"the universe room",
+		"volume":"birth",
+		"id": "0v037"
+	},
+	{
+		"title":"there will be a starlight parade tonight",
+		"volume":"birth",
+		"id": "0v038"
+	},
+	{
+		"title":"lacking no driving reason",
+		"volume":"birth",
+		"id": "0v039"
+	},
+	{
+		"title":"on vacation",
+		"volume":"birth",
+		"id": "0v040"
+	},
+	{
+		"title":"the port of san francisco",
+		"volume":"birth",
+		"id": "0v041"
+	},
+	{
+		"title":"contemplate atmosphere",
+		"volume":"birth",
+		"id": "0v042"
+	},
+	{
+		"title":"it's how you",
+		"volume":"birth",
+		"id": "0v043"
+	},
+	{
+		"title":"the vibrating refractiions of my harmonica",
+		"volume":"birth",
+		"id": "0v044"
+	},
+	{
+		"title":"thou art the reason i dreamt this dream",
+		"volume":"birth",
+		"id": "0v045"
+	},
+	{
+		"title":"casualties",
+		"volume":"birth",
+		"id": "0v046"
+	},
+	{
+		"title":"butterfliees",
+		"volume":"birth",
+		"id": "0v047"
+	},
+	{
+		"title":"sounds of summer",
+		"volume":"birth",
+		"id": "0v048"
+	},
+	{
+		"title":"angels in fog",
+		"volume":"birth",
+		"id": "0v049"
+	},
+	{
+		"title":"south fork",
+		"volume":"birth",
+		"id": "0v050"
+	},
+	{
+		"title":"party on",
+		"volume":"birth",
+		"id": "0v051"
+	},
+	{
+		"title":"kayaking on lifeblood river",
+		"volume":"birth",
+		"id": "0v052"
+	},
+	{
+		"title":"i am citizen rooted",
+		"volume":"birth",
+		"id": "0v053"
+	},
+	{
+		"title":"before the saw",
+		"volume":"birth",
+		"id": "0v054"
+	},
+	{
+		"title":"an empty smile",
+		"volume":"birth",
+		"id": "0v055"
+	},
+	{
+		"title":"lightsabers",
+		"volume":"birth",
+		"id": "0v056"
+	},
+	{
+		"title":"new age",
+		"volume":"birth",
+		"id": "0v057"
+	},
+	{
+		"title":"the moment things are not good enough",
+		"volume":"birth",
+		"id": "0v058"
+	},
+	{
+		"title":"the shallows",
+		"volume":"birth",
+		"id": "0v059"
+	},
+	{
+		"title":"flowers and wind",
+		"volume":"birth",
+		"id": "0v060"
+	},
+	{
+		"title":"spring is on its way in a smile",
+		"volume":"birth",
+		"id": "0v061"
+	},
+	{
+		"title":"facts about a poet boy",
+		"volume":"birth",
+		"id": "0v062"
+	},
+	{
+		"title":"nine times out of ten",
+		"volume":"awakening",
+		"id": "1v000"
+	},
+	{
+		"title":"approaching chicago",
+		"volume":"awakening",
+		"id": "1v001"
+	},
+	{
+		"title":"becoming immune through poetrical alchÿmistrie",
+		"volume":"awakening",
+		"id": "1v002"
+	},
+	{
+		"title":"in the event of ruin",
+		"volume":"awakening",
+		"id": "1v003"
+	},
+	{
+		"title":"monsieur marcialle at XB liebigstr.",
+		"volume":"awakening",
+		"id": "1v004"
+	},
+	{
+		"title":"history is a hill",
+		"volume":"awakening",
+		"id": "1v005"
+	},
+	{
+		"title":"to a dream",
+		"volume":"awakening",
+		"id": "1v006"
+	},
+	{
+		"title":"the pen comes back",
+		"volume":"awakening",
+		"id": "1v007"
+	},
+	{
+		"title":"unready nation",
+		"volume":"awakening",
+		"id": "1v008"
+	},
+	{
+		"title":"i'm my own authority",
+		"volume":"awakening",
+		"id": "1v009"
+	},
+	{
+		"title":"body and mind",
+		"volume":"awakening",
+		"id": "1v010"
+	},
+	{
+		"title":"love's tightrope",
+		"volume":"awakening",
+		"id": "1v011"
+	},
+	{
+		"title":"chortle",
+		"volume":"awakening",
+		"id": "1v012"
+	},
+	{
+		"title":"from marrow to mind",
+		"volume":"awakening",
+		"id": "1v013"
+	},
+	{
+		"title":"creating a fire",
+		"volume":"awakening",
+		"id": "1v014"
+	},
+	{
+		"title":"authentic",
+		"volume":"awakening",
+		"id": "1v015"
+	},
+	{
+		"title":"no poems! no transectuals",
+		"volume":"awakening",
+		"id": "1v016"
+	},
+	{
+		"title":"heart pitched battle",
+		"volume":"awakening",
+		"id": "1v017"
+	},
+	{
+		"title":"appropriation is deadly",
+		"volume":"awakening",
+		"id": "1v018"
+	},
+	{
+		"title":"boring",
+		"volume":"awakening",
+		"id": "1v019"
+	},
+	{
+		"title":"fluvial pneuma",
+		"volume":"awakening",
+		"id": "1v020"
+	},
+	{
+		"title":"in the rough",
+		"volume":"awakening",
+		"id": "1v021"
+	},
+	{
+		"title":"philisophical underpinnings",
+		"volume":"darkening",
+		"id": "2v000"
+	},
+	{
+		"title":"so here it burns within me",
+		"volume":"awakening",
+		"id": "2v001"
+	},
+	{
+		"title":"art school with rikard and yael",
+		"volume":"awakening",
+		"id": "2v002"
+	},
+	{
+		"title":"totem",
+		"volume":"awakening",
+		"id": "2v003"
+	},
+	{
+		"title":"addiction therapy",
+		"volume":"awakening",
+		"id": "2v004"
+	},
+	{
+		"title":"a piece of buttered puzzles",
+		"volume":"awakening",
+		"id": "2v005"
+	},
+	{
+		"title":"",
+		"volume":"awakening",
+		"id": "2v000"
+	},
+	{
+		"title":"into being",
+		"volume":"death",
+		"id": "3v000"
+	},
+	{
+		"title":"the center",
+		"volume":"death",
+		"id": "3v001"
+	},
+	{
+		"title":"tree she can see",
+		"volume":"death",
+		"id": "3v002"
+	},
+	{
+		"title":"if i could write without my",
+		"volume":"death",
+		"id": "3v003"
+	},
+	{
+		"title":"goodbye, budapest",
+		"volume":"death",
+		"id": "3v004"
+	},
+	{
+		"title":"appropriation is deadly",
+		"volume":"death",
+		"id": "3v005"
+	},
+	{
+		"title":"a night not sleeping",
+		"volume":"death",
+		"id": "3v006"
+	},
+	{
+		"title":"immaculate preserever",
+		"volume":"death",
+		"id": "3v007"
+	},
+	{
+		"title":"bulldozeer",
+		"volume":"death",
+		"id": "3v008"
+	},
+	{
+		"title":"acorns",
+		"volume":"death",
+		"id": "3v009"
+	},
+	{
+		"title":"eeating today",
+		"volume":"death",
+		"id": "3v010"
+	},
+	{
+		"title":"conditional",
+		"volume":"death",
+		"id": "3v011"
+	}, 
+	{
+		"title":"red poppies on a waiting room wall",
+		"volume":"death",
+		"id": "3v012"
+	},
+	{
+		"title":"presence in endless glacial rivers",
+		"volume":"death",
+		"id": "3v013"
+	},
+	{
+		"title":"fearing the compost, we preserve and take",
+		"volume":"death",
+		"id": "3v014"
+	},
+	{
+		"title":"someday forgotten",
+		"volume":"death",
+		"id": "3v015"
+	},
+	{
+		"title":"dealth",
+		"volume":"death",
+		"id": "3v016"
+	},
+	{
+		"title":"worth",
+		"volume":"earthbound release",
+		"id": "4v000"
+	},
+	{
+		"title":"compass lily",
+		"volume":"earthbound release",
+		"id": "4v001"
+	},
+	{
+		"title":"the candy bar",
+		"volume":"earthbound release",
+		"id": "4v002"
+	},
+	{
+		"title":"saying thank you",
+		"volume":"earthbound release",
+		"id": "4v003"
+	}, 
+	{
+		"title":"a thought that makes you dizzy",
+		"volume":"earthbound release",
+		"id": "4v004"
+	},
+	{
+		"title":"access",
+		"volume":"earthbound release",
+		"id": "4v005"
+	},
+	{
+		"title":"your modest paradox",
+		"volume":"earthbound release",
+		"id": "4v006"
+	},
+	{
+		"title":"presence",
+		"volume":"earthbound release",
+		"id": "4v007"
+	},
+	{
+		"title":"putting my feet in the water",
+		"volume":"earthbound release",
+		"id": "4v008"
+	},
+	{
+		"title":"poetry is the song of the birds",
+		"volume":"earthbound release",
+		"id": "4v009"
+	},
+	{
+		"title":"the love of resistance",
+		"volume":"earthbound release",
+		"id": "4v010"
+	},
+	{
+		"title":"big tree",
+		"volume":"earthbound release",
+		"id": "4v011"
+	},
+	{
+		"title":"statement of existence",
+		"volume":"earthbound release",
+		"id": "4v012"
+	},
+	{
+		"title":"the fear that when stroked bby the hair legs",
+		"volume":"earthbound release",
+		"id": "4v013"
+	},
+	{
+		"title":"so if it seems you've left me",
+		"volume":"earthbound release",
+		"id": "4v014"
+	},
+	{
+		"title":"the posture of this millennium",
+		"volume":"earthbound release",
+		"id": "4v015"
+	},
+	{
+		"title":"america, you fool",
+		"volume":"earthbound release",
+		"id": "4v016"
+	},
+	{
+		"title":"massaging the earth",
+		"volume":"earthbound release",
+		"id": "4v017"
+	},
+	{
+		"title":"how how might",
+		"volume":"earthbound release",
+		"id": "4v018"
+	},
+	{
+		"title":"misty consciousness in emptiness",
+		"volume":"earthbound release",
+		"id": "4v019"
+	},
+	{
+		"title":"extortion",
+		"volume":"earthbound release",
+		"id": "4v020"
+	},
+	{
+		"title":"to reject the earthbord message",
+		"volume":"earthbound release",
+		"id": "4v021"
+	},
+	{
+		"title":"each day is like a life time",
+		"volume":"earthbound release",
+		"id": "4v022"
+	},
+	{
+		"title":"what is evil",
+		"volume":"earthbound release",
+		"id": "4v023"
+	},
+	{
+		"title":"cupid has run amok",
+		"volume":"earthbound release",
+		"id": "4v024"
+	},
+	{
+		"title":"on thine third eye forlorn",
+		"volume":"earthbound release",
+		"id": "4v025"
+	},
+	{
+		"title":"jagged residue",
+		"volume":"earthbound release",
+		"id": "4v026"
+	},
+	{
+		"title":"an angelic",
+		"volume":"earthbound release",
+		"id": "4v027"
+	}
 ]
